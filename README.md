@@ -95,3 +95,11 @@ Status = if ISNULL([Termdate]) then 'Hired'
 ELSE 'Termidated'
 END
 
+## WorkBook Format
+
+1. Trebuchet MS font is used with a font size of 9.  
+2. All gridlines from rows, columns, and the sheet are removed.  
+3. The background features a custom black color (#171717).  
+4. The color palette includes #777777, #03c4a1, #c52a87, and #ffffff.
+
+
