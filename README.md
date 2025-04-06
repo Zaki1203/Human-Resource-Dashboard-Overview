@@ -102,4 +102,25 @@ END
 3. The background features a custom black color (#171717).  
 4. The color palette includes #777777, #03c4a1, #c52a87, and #ffffff.
 
+Both action filters and standard filters have been implemented to enhance interactivity and allow users to explore data dynamically
+
+
+## Key Insights 
+
+
+1. The company currently has **7,984 active employees**.  
+2. A total of **966 employees have been terminated**.  
+3. **8,950 employees have been hired** overall.  
+4. The majority of hires were in **Operations (2,429)**, followed by **Sales (1,634)**, **Customer Service (1,489)**, and **IT (1,243)**.  
+5. **70% of employees were hired at the Headquarters in New York**, indicating a major concentration of the workforce there.  
+6. The highest number of hires occurred in **2017 with 1,560 employees**. However, hiring declined consistently until 2021.  
+7. Since **2018**, there has been a **rise in employee terminations**, peaking in **2023 with 174 terminations**.  
+8. **West Virginia recorded the lowest termination rate** among all states.  
+9. **54% of male employees were hired**, with **11% of them eventually terminated**.  
+10. **46% of female employees were hired**, with **11% also terminated**, indicating parity in termination rates across genders.  
+11. Employees with a **High School education level tend to earn lower salaries**, whereas those with a **PhD earn the highest average salaries**.  
+12. Employees aged **35–44 with a Bachelor's degree have the highest termination rate** among educational groups.  
+13. The role of **Financial Manager commands the highest above-average salary**, while **HR Assistants earn below-average salaries**.  
+14. **85% of employees with only a High School education fall under the 'Needs Improvement' performance category**, while **Bachelor’s degree holders are mostly in the 'Average' (55%)**, and **Master’s and PhD holders predominantly fall into the 'Excellent' category**.
+
 
