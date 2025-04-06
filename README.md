@@ -1,8 +1,7 @@
 # Human-Resource-Dashboard-Overview
 
-## Project Overview 
-The HR Analytics Dashboard is a comprehensive reporting solution designed to provide both high-level insights and detailed analysis of employee data within the organization. The dashboard consolidates key HR metrics into an intuitive and interactive format, supporting strategic decision-making and workforce planning.
-
+## Project Overview   
+This HR Dashboard project, built using Tableau, provides a centralized and interactive platform to analyze workforce metrics across four key areas: Overview, Demographics, Income, and Employee Records. It tracks hiring and termination trends, evaluates gender and education diversity, analyzes income disparities, and offers a detailed employee directory. The dashboard supports strategic HR decisions through interactive visuals, calculated fields, and dynamic filters, helping identify workforce trends, performance insights, and organizational structure distribution.
 ##  Project Objective 
 The primary objective of this HR Dashboard is to deliver a centralized, interactive platform for monitoring, analyzing, and understanding key HR metrics. The dashboard is structured into four main sections — Overview, Demographics, Income, and Employee Records View — each tailored to support strategic HR decision-making and workforce analysis.
 
