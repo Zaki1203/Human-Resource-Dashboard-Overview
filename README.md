@@ -34,3 +34,31 @@ The primary objective of this HR Dashboard is to deliver a centralized, interact
   - Salary
   - Enable users to filter and sort employee data by any column, supporting deeper individual and group-level analysis.
 
+##  Dataset 
+Dataset has been generated using Chatgbt,here is the link of the dataset with icons used for the dashboard [click here](
+
+## Tools 
+I've utlized Tableau  for basic data inspection and creating interactive dashboard
+
+## Data Preparation
+
+**Step-by-Step Process:**
+
+1. **Unzip the Folder**:  
+   Start by unzipping the folder containing the Human Resource dataset.
+
+2. **Open in Excel**:  
+   Open the Excel file to perform initial data cleaning:
+   - Remove any duplicate rows.
+   - Check for missing or inconsistent data.
+     
+3. **Import into Tableau**:  
+   Drag and drop the cleaned Excel file into Tableau.
+
+4. **Inspect Data Types**:  
+   In Tableau’s data source tab:
+   - Review the data types of each column (e.g., string, number, date).
+     
+5. **Open Worksheet**:  
+   After confirming the data is ready, click on the worksheet tab to begin your visual analysis.
+
