@@ -6,14 +6,6 @@ The HR Analytics Dashboard is a comprehensive reporting solution designed to pro
 ##  Project Objective 
 The primary objective of this HR Dashboard is to deliver a centralized, interactive platform for monitoring, analyzing, and understanding key HR metrics. The dashboard is structured into four main sections — Overview, Demographics, Income, and Employee Records View — each tailored to support strategic HR decision-making and workforce analysis.
 
-Absolutely! Here’s a well-structured **Project Objectives** section based on your dashboard features:
-
----
-
-**Project Objectives**
-
-The primary objective of this HR Dashboard is to deliver a centralized, interactive platform for monitoring, analyzing, and understanding key HR metrics. The dashboard is structured into four main sections — **Overview**, **Demographics**, **Income**, and **Employee Records View** — each tailored to support strategic HR decision-making and workforce analysis.
-
 ### 1. **Overview**
 - Display the **total number of hired, active, and terminated employees** to give a snapshot of current workforce dynamics.
 - Visualize **hiring and termination trends over the years** to identify recruitment and attrition patterns.
@@ -40,5 +32,5 @@ The primary objective of this HR Dashboard is to deliver a centralized, interact
   - Age
   - Education
   - Salary
-  - Enable users to **filter and sort employee data by any column, supporting deeper individual and group-level analysis.
+  - Enable users to filter and sort employee data by any column, supporting deeper individual and group-level analysis.
 
