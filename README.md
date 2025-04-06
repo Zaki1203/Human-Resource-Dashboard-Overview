@@ -62,3 +62,36 @@ I've utlized Tableau  for basic data inspection and creating interactive dashboa
 5. **Open Worksheet**:  
    After confirming the data is ready, click on the worksheet tab to begin your visual analysis.
 
+## Calculated Field 
+I have created calculated fields as follows
+
+Total Hired= COUNT([Employee ID])
+
+TOtal Terminated =COUNT(if not isnull ([Termdate]) THEN [Employee ID]END)
+
+Total Active =COUNT(IF  isnull ([Termdate]) THEN [Employee ID]END)
+
+Length of Hire =if ISNULL([Termdate]) then
+DATEDIFF('year',[Hiredate],TODAY())
+ELSE DATEDIFF('year',[Hiredate],[Termdate])
+END
+
+Age= DATEDIFF('year',[Birthdate],TODAY())
+
+% Total Hired =[Total Hired] / TOTAL([Total Hired])
+
+Max= WINDOW_MAX([Total Hired])=[Total Hired]
+
+% Max=WINDOW_MAX([% Total Hired])=[% Total Hired]
+
+Fullname=[First Name]+ ' ' + [Last Name]
+
+Location =CASE [State]
+     WHEN 'New York' THEN 'HQ'
+     ELSE 'Branches'
+END
+
+Status = if ISNULL([Termdate]) then 'Hired'
+ELSE 'Termidated'
+END
+
