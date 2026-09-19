@@ -5,6 +5,10 @@ This HR Dashboard project, built using Tableau, provides a centralized and inter
 ##  Project Objective 
 The primary objective of this HR Dashboard is to deliver a centralized, interactive platform for monitoring, analyzing, and understanding key HR metrics. The dashboard is structured into four main sections — Overview, Demographics, Income, and Employee Records View — each tailored to support strategic HR decision-making and workforce analysis.
 
+
+https://github.com/user-attachments/assets/636fac2a-0ce8-48d1-acb1-5b1b706d0cb2
+
+
 ### 1. **Overview**
 - Display the **total number of hired, active, and terminated employees** to give a snapshot of current workforce dynamics.
 - Visualize **hiring and termination trends over the years** to identify recruitment and attrition patterns.
